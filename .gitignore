@@ -1,0 +1,11 @@
+.DS_Store
+.obsidian/cache/
+.obsidian/workspaces/
+.obsidian/workspace.json
+.obsidian/plugins/*/data.json
+*.swp
+*.swo
+*~
+.env
+.env.local
+node_modules/
